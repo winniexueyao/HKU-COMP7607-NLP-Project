@@ -1,4 +1,4 @@
-# Metaphor Extraction With GPT-3
+Metaphor Extraction With GPT-3
 
 ## Paper
 
