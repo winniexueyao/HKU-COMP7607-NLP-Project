@@ -10,4 +10,5 @@
 - Data for prompting and fine-tuning can be found in the [Data](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Data) folder. 
 - Annotations made through GPT-3 can be found in the respective folders for [validation](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Validation%20Results/Source%20Completion) and [test](https://github.com/lwachowiak/Metaphor-Extraction-With-GPT-3/tree/main/Test%20Results/Source%20Completion/Few%20Shot) results. The test data also contains the authors' annotations.
 
+## Ideas & Findings
 ![Image](Poster-ACL.png)
